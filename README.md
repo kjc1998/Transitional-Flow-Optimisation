@@ -2,7 +2,7 @@
 
 Numerical Investigation of ensemble adjoint optimisation approach on transitional flow regime in Plane-Couette application.
 
-- "1_9mode_system": Analysis on the 9 truncated flow-governing equations. (ref: "https://gasagna.github.io/Flows.jl/dev/", "https://github.com/gasagna/ToySystems.jl")
+- "1_9mode_system": Analysis on the 9 truncated flow-governing equations. \n(ref: "https://gasagna.github.io/Flows.jl/dev/", "https://github.com/gasagna/ToySystems.jl")
 - "2_Equilibrium points and Jacobian": Control theory stabilisation about laminar state through Jacobian Matrix approach.
 - "3_Stability and Perturbation": Turbulence lifetime probabilistic study under different <em>Re</em>.
 - "4_Test files": Flow Test.
